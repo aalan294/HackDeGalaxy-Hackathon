@@ -119,7 +119,7 @@ In today's fast-paced world, many individuals experience depression and mental h
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/aalan294/CODEBYTE-HACKATHON---MENTAL-HEALTH.git
+   git clone https://github.com/aalan294/HackDeGalaxy-Hackathon.git
    ```
 2. Install dependencies for both client and server:
    ```
